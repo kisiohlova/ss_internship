@@ -1,1 +1,1 @@
-Link: https://koldovsky.github.io/online-shop/
+Link: https://koldovsky.github.io/online-shop/git
